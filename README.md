@@ -6,13 +6,11 @@ QQ:1065651787
 
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=Hzbupahaozi&show_icons=true&theme=dark&count_private=true) \
+![](https://github-readme-stats.vercel.app/api?username=Hzbupahaozi&show_icons=true&theme=dark&count_private=true) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hzbupahaozi&theme=dark&layout=compact) \
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hzbupahaozi&theme=dark&layout=compact) 
 
-![](https://activity-graph.herokuapp.com/graph?username=Hzbupahaozi&theme=github)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Hzbupahaozi&right_color=red" /> 
 
 
 
