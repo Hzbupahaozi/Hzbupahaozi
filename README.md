@@ -4,7 +4,8 @@
 
 QQ:1065651787
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Hzbupahaozi}/count.svg)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=Hzbupahaozi&show_icons=true&theme=dark&count_private=true) 
 
