@@ -1,6 +1,6 @@
 ### Hello!
 - 🔭 I’m a scuter 
-- 🌱 I’m currently learning dl,cv,model deployment(but actually preparing for the postgraduate entrance examination)
+- 🌱 I’m currently learning dl,cv,model deployment
 
 QQ:1065651787
 
