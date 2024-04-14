@@ -4,13 +4,13 @@
 
 QQ:1065651787
 
-![](https://github-readme-stats.vercel.app/api?username=Hzbupahaozi&show_icons=true&theme=dark&count_private=true) 
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hzbupahaozi&theme=dark&layout=compact) 
 
 ![Visitor Count](https://profile-counter.glitch.me/{Hzbupahaozi}/count.svg)
 
-
+![](https://github-readme-stats.vercel.app/api?username=Hzbupahaozi&show_icons=true&theme=dark&count_private=true) 
 
 
 <!--
