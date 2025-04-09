@@ -2,9 +2,6 @@
 - 🔭 I’m a scuter 
 - 🌱 I’m currently learning dl,cv,model deployment
 
-QQ:1065651787
-
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hzbupahaozi&theme=dark&layout=compact) 
 
