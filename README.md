@@ -1,9 +1,7 @@
 ### Hello!
-- 🔭 I’m a scuter 
-- 🌱 I’m currently learning dl,cv,model deployment
+- 🔭 I’m a scuter.
+- 🌱 I’m currently learning Table Structure Recognition, Table Understanding.
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hzbupahaozi&theme=dark&layout=compact) 
 
 <!--
 **Hzbupahaozi/Hzbupahaozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
