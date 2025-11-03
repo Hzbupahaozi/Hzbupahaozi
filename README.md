@@ -2,6 +2,7 @@
 - 🔭 I’m a scuter.
 - 🌱 I’m currently learning Table Structure Recognition, Table Understanding.
 
+You can contact me at the email address 1065651787@qq.com
 
 <!--
 **Hzbupahaozi/Hzbupahaozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
